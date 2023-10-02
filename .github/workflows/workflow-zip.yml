@@ -57,4 +57,4 @@ jobs:
           package: next.zip
 
       - name: Delete zip file
-          run: rm next.zip
+        run: rm next.zip
